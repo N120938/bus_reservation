@@ -1,0 +1,10 @@
+3001 superluxery vijayawada 22.30 0 guntur 0.30 100  hyderabad 6.30 400 end
+3002 superluxery hyderabad 22.30 0 guntur 4.30 300 vijayawada 6.30 400 end
+6521 superluxery vizag 15.00 0 vijayawada 20.00 300 tirupati 1.00 900 chennai 7.00 1200 end
+6522 superluxery chennai 15.00 0 tirupati 21.00 300 vijayawada 2.00 900 vizag 7.00 1200 end
+7633 superluxery vijayawada 16.30 0 eluru 18.00 100 vizag 1.00 350 srikakulam 4.30 550 bhuvaneswar 6.30 700 end
+7634 superluxery bhuvaneswar 16.30 0 srikakulam 18.30 150 vizag 21.30 350 eluru 4.00 600 vijayawada 6.30 700 end
+7521 superluxery vijayawada 17.30 0 eluru 19.00 100 vizag 2.00 350 srikakulam 5.30 550 bhuvaneswar 7.30 700 end
+7522 superluxery bhuvaneswar 17.30 0 srikakulam 19.30 150 vizag 22.30 350 eluru 5.00 600 vijayawada 7.30 700 end
+1521 Delux vijayawada 4.00 0 nuzvid 6.45 40 nuzvid 7.00 0 vijayawada 8.45 40 vijayawada 9.00 0 nuzvid 10.45 40 nuzvid 11.00 0 vijayawada 12.45 40 vijayawada 2.00 0 nuzvid 3.45 40 nuzvid 5.45 0 vijayawada 6.45 40 end
+1386 Delux vijayawada 4.30 0 nuzvid 7.15 40 eluru 9.00 90 eluru 9.15 0 nuzvid 11.00 50 vijayawada 12.45 90 vijayawada 2.00 0 nuzvid 3.30 40 eluru 4.45 90 eluru 5.00 0 nuzvid 6.45 50 vijayawada 8.30 90 end
